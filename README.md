@@ -2,7 +2,7 @@
 **AI/ML Engineer | Full-Stack Developer | Football & Tech Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ram-vignesh-gb-922b1b380/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](ramvigneshgb@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:ramvigneshgb@gmail.com)
 
 I'm an engineer who loves building intelligent systems and robust web applications just as much as I love analyzing football tactics or scouting wonderkids on the pitch. I believe in writing clean, scalable code and keeping a healthy balance between the IDE, the gym, and a good game.
 
@@ -29,6 +29,6 @@ When I'm not debugging or optimizing algorithms, you can probably find me:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7&bg_color=1a1b26" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramvigneshgb&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7&bg_color=1a1b26" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramvigneshgb&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" />
 </div>
