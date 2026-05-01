@@ -26,9 +26,3 @@ When I'm not debugging or optimizing algorithms, you can probably find me:
 *   **Pop Culture:** Binging *House of the Dragon*, revisiting animated classics like *Ben 10*, or catching a new movie. 
 *   **Exploring:** Taking long cross-country train rides and hunting down the best sushi bars, Korean corn dogs, and Pan-Asian cuisine.
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramvigneshgb&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7&bg_color=1a1b26" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramvigneshgb&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" />
-</div>
